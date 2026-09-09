@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Top Three Cartoon Series</h1>
+    </header>
+    <main>
+        <p>This is a personal opinion, but this list displays the top three greatest cartoon series of all time. These cartoons are nothing but classics and are in alphabetical order.</p>
+        <ol>
+            <li>Sponegebob Squarepants</li>
+            <figure>
+                <img src="github_sbsp_image.jpg"
+                width="50%" alt="This is the number one greatest cartoon series of all time. Spongebob Squarepants"
+                <figcaption>Relative image size</figcaption>
+            </figure>
+            <li>The Boondocks</li>
+            <figure>
+                <img src="github_tb_img.jpg"
+                width="50%" alt="This is the second greatest cartoon of all time. The Boondocks"
+                <figcaption>Relative image size</figcaption>
+            </figure>
+            <li>Gravity Falls</li>
+            <figure>
+                <img src="github-gf-image.jpg"
+                width="50%" alt="This is the third greatest cartoon series of all time. Gravity Falls"
+                <figcaption>Relative image size</figcaption>
+            </figure>
+        </ol>
+    </main>
+
+    <a href="https://www.imdb.com/title/tt0206512/episodes/">Sponegebob</a>
+
+    <a href="https://www.imdb.com/title/tt0373732/">The Boondocks</a>
+
+    <a href="https://www.imdb.com/title/tt1865718/mediaviewer/rm3967011840/?ref_=tt_ov_i">Gravity Falls</a>
+
+
+    <footer>
+        Copyright Sierra Harper
+    </footer>
+</body>
+</html>
